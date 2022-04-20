@@ -1,0 +1,23 @@
+/* border: 1px solid grey; */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  line-height: 1.5;
+  padding: 16px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+button {
+  font-size: 100%;
+  padding: 4px 8px;
+}
